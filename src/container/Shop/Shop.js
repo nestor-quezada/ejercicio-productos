@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import axios from 'axios';
+import axios from '../../axios';
 import NuevoProducto from '../../components/NuevoProducto/NuevoProducto'
 import ListaProductos from '../../components/ListaProductos/ListaProductos';
 import DetalleProducto from '../../components/DetalleProducto/DetalleProducto';

@@ -5,7 +5,7 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import axios from 'axios';
 
-axios.defaults.baseURL = 'https://dsm-react.firebaseio.com/';
+//axios.defaults.baseURL = 'https://dsm-react.firebaseio.com/';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
